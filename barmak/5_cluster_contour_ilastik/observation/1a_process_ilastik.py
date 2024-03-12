@@ -11,9 +11,9 @@ import cv2 as cv
 import numpy as np
 
 
-p_in = '/Users/barmak/Desktop/data_mess/imgs_obs_video_S1/imgs10/ilastik/'
+p_in = '/Users/fabianprofeta/Desktop/PDS-IR-imaging/IR-imaging-2024/barmak/5_cluster_contour_ilastik/imgs10/ilastik/'
 # where to save masks
-p_out = '/Users/barmak/Desktop/data_mess/imgs_obs_video_S1/imgs10_masks/'
+p_out = '/Users/fabianprofeta/Desktop/PDS-IR-imaging/IR-imaging-2024/barmak/5_cluster_contour_ilastik/imgs10_masks/'
 
 files = sorted(glob.glob(p_in + '*.png'))
 

@@ -4,9 +4,9 @@ import cv2 as cv
 fps = 30
 scale_percent = 45  # percent of original size
 
-p_in = '/Users/barmak/Desktop/data_mess/imgs_obs_video_S1/imgs10_masks_overlay_yellow/'
-p_out = '/Users/barmak/Desktop/data_mess/imgs_obs_video_S1/'
-fn = '1c_obs_video_%dfps_yellow.mp4' % fps
+p_in = '/Users/fabianprofeta/Desktop/PDS-IR-imaging/IR-imaging-2024/barmak/5_cluster_contour_ilastik/imgs10_masks_overlay_red/'
+p_out = '/Users/fabianprofeta/Desktop/PDS-IR-imaging/IR-imaging-2024/barmak/5_cluster_contour_ilastik/'
+fn = '1c_obs_video_%dfps_red.mp4' % fps
 
 files = sorted(glob.glob(p_in+'*.jpg'))
 

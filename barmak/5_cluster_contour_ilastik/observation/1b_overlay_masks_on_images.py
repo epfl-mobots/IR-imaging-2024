@@ -7,9 +7,9 @@ import numpy as np
 percentage = 50  # specify your percentage here
 
 color = 'yellow'  # 'red' or 'yellow'
-p_imgs  = '/Users/barmak/Desktop/data_mess/imgs_obs_video_S1/imgs10/'
-p_fills = '/Users/barmak/Desktop/data_mess/imgs_obs_video_S1/imgs10_masks/'
-p_out   = '/Users/barmak/Desktop/data_mess/imgs_obs_video_S1/imgs10_masks_overlay_%s/' % color
+p_imgs  = '/Users/fabianprofeta/Desktop/PDS-IR-imaging/IR-imaging-2024/barmak/5_cluster_contour_ilastik/imgs10/'
+p_fills = '/Users/fabianprofeta/Desktop/PDS-IR-imaging/IR-imaging-2024/barmak/5_cluster_contour_ilastik/imgs10_masks/'
+p_out   = '/Users/fabianprofeta/Desktop/PDS-IR-imaging/IR-imaging-2024/barmak/5_cluster_contour_ilastik/imgs10_masks_overlay_%s/' % color
 
 imgs = sorted(glob.glob(p_imgs + '*.jpg'))
 masks = sorted(glob.glob(p_fills + '*.png'))
