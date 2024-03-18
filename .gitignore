@@ -168,3 +168,5 @@ barmak/*/*.png
 barmak/*/*.jpg
 barmak/*/*.jpeg
 barmak/6_median_filter_remove_bees/imgs_h4r4
+
+.DS_Store
