@@ -168,5 +168,7 @@ barmak/*/*.png
 barmak/*/*.jpg
 barmak/*/*.jpeg
 barmak/6_median_filter_remove_bees/imgs_h4r4
+lighting_V1/masks/
+lighting_V1/masks_overlay/
 
 .DS_Store
