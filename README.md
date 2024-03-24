@@ -9,3 +9,7 @@ Repository for the semester project carried out by Octavio Profeta in the spring
 # 18.03.24 
 
 - not enough images to use the provided code, will try alt method now
+
+# 24.03.24 
+
+- thresholding pipeline works fine on random samples of barmak dataset
