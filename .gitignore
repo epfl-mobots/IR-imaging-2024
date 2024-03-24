@@ -160,16 +160,10 @@ cython_debug/
 #.idea/
 
 # Images and video form barmak folder
-barmak/5_cluster_contour_ilastik/observation/imgs10
-barmak/5_cluster_contour_ilastik/observation/imgs10_masks
-barmak/5_cluster_contour_ilastik/observation/imgs10_masks_overlay_red
-*.mp4
-barmak/*/*.png
-barmak/*/*.jpg
-barmak/*/*.jpeg
-barmak/6_median_filter_remove_bees/imgs_h4r4
+barmak/*
 lighting_V1/masks/
 lighting_V1/masks_overlay/
 winter_cluster_img/
+*.jpg
 
 .DS_Store
