@@ -165,5 +165,5 @@ lighting_V1/masks/
 lighting_V1/masks_overlay/
 winter_cluster_img/
 *.jpg
-
+*.png
 .DS_Store
