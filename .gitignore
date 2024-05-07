@@ -160,12 +160,33 @@ cython_debug/
 #.idea/
 
 # Images and video form barmak folder
-barmak/*
-lighting_V1/masks/
-lighting_V1/masks_overlay/
+barmak/
 winter_cluster_img/
-*.jpg
-*.png
+
+optical_flow/imgs10
+optical_flow/imgs_samples
+
+region_growing/clusters
+region_growing/imgs_samples
+region_growing/imgs_samples_contour
+region_growing/imgs_samples_mask
+region_growing/morph_disk11
+region_growing/test_grad_value
+region_growing/*.jpg
+
+thresholding/imgs_samples
+thresholding/imgs_samples_mask
+thresholding/imgs_samples_contour
+thresholding/clusters
+thresholding/clusters_with_contours
+thresholding/*.jpg
+
+ilastik/imgs_samples
+ilastik/imgs_samples_mask
+ilastik/imgs_samples_contour
+ilastik/imgs_samples_resized
+ilastik/*.jpg
+
 .DS_Store
 *.h5
 
