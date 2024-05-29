@@ -191,3 +191,5 @@ ilastik/*.jpg
 *.h5
 
 *.mp4
+
+aa_ilastik/resized_images/
