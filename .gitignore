@@ -193,3 +193,4 @@ ilastik/*.jpg
 *.mp4
 
 aa_ilastik/resized_images/
+aa_region_growing/resized_images/
